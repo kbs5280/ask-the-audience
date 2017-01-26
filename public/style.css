@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 75px;
+  font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+}
+
+body {
+  font-size: 40px;
+  font-family: Courier, "Lucida Console", monospace;
+}
+
+button {
+  display: inline-block;
+  width: 150px;
+  padding: 8px;
+  color: black;
+  border: 1px solid black;
+  background-color: #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+div#count-votes {
+  font-size: 27px;
+  padding: 40px;
+}
+
+div#choices {
+  padding: 25px;
+}
